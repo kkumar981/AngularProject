@@ -1,0 +1,6 @@
+[
+            {"id": 1, "name": "Rakesh", "gender": "male","department":"Development"},
+            {"id": 2, "name": "Kumar", "gender": "male","department":"HR"},
+            {"id": 3, "name": "xyz", "gender": "male","department":"Technical Team"},
+            {"id": 4, "name": "ABC", "gender": "male","department":"Technical Team"}
+]
